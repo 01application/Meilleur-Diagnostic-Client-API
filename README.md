@@ -1,4 +1,4 @@
 Meilleur-Diagnostic-Client-API
 ==============================
 
-Classe cliente API partenaire
+Exemple d'utilisation de l'API d'envoi de leads
